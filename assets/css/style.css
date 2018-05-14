@@ -4,7 +4,7 @@
 }
 
 /* background things */
-div {
+/*div {
     width:100%;
     max-width: 960px;
     display: contents;
@@ -26,11 +26,11 @@ div {
 }
 
 /* headings */
-h1 {
+/*h1 {
     font-family: 'Georgia', Times, Times New Roman, serif;
 }
 
 /* links */
-a {
+/*a {
     float: right;
-}
+} 
