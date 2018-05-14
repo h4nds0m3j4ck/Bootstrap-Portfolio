@@ -1,0 +1,36 @@
+/* bio pic */
+#imgRotate {
+    transform: rotate(270deg);
+}
+
+/* background things */
+div {
+    width:100%;
+    max-width: 960px;
+    display: contents;
+    border: 2px solid red;
+    background-color: #ccc;
+    padding: 10px;
+    width: 200px;
+}
+
+
+
+
+
+
+.footer {
+    padding: 20px;
+    clear: both;
+    background: #666666;
+}
+
+/* headings */
+h1 {
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+/* links */
+a {
+    float: right;
+}
