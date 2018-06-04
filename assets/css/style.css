@@ -1,6 +1,20 @@
 /* bio pic */
 #imgRotate {
-    transform: rotate(270deg);
+    /*Remove comment if using tj-bio-pic.jpg
+    /*transform: rotate(270deg);*/
+    padding: 20px;
+    position: relative;
+    left: 230px;
+
+}
+
+/* Spacing for layout */
+.top-buffer { margin-top:40px; 
+}
+
+/* Background */
+.background {
+    background-color: black;
 }
 
 /* background things */
